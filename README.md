@@ -15,7 +15,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/camilleAmaury/ReportAGAR">
-    <img src="images/logo.png" alt="Logo" width="192" height="108">
+    <img src="images/logo.png" alt="Logo" width="640" height="360">
   </a>
 
   <h3 align="center">AGAR Report (M2 datascience)</h3>
